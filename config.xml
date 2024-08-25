@@ -1,0 +1,10 @@
+<configuration>
+        <broker>localhost:9092</broker>
+        <topic>test</topic>
+        <partition>0</partition>
+        <group>test</group>
+      <version>2.13-3.6.1</version>
+
+
+ <!-- 其他配置，如数据库连接信息、日志级别等，可以根据需要添加 -->
+</configuration>
